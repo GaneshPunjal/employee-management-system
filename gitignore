@@ -1,0 +1,25 @@
+# Java
+*.class
+*.jar
+*.war
+/target/
+
+# Node.js / React
+/node_modules/
+/build/
+/dist/
+
+# Logs
+*.log
+
+# IDE settings
+/.idea/
+/.vscode/
+*.iml
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
